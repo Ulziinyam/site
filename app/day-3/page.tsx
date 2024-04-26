@@ -65,7 +65,7 @@ const Day3 = () => {
           animate='animate'
           className='text-3xl font-semibold text-7xl'
         >
-          Our service:
+          Our services:
         </motion.span>
         <motion.div
           variants={parentVariants}
